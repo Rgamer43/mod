@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "creation_mod:blocks/mortar_pestle_side",
+    "up": "creation_mod:blocks/mortar_pestle_top",
+    "north": "creation_mod:blocks/mortar_pestle_side",
+    "east": "creation_mod:blocks/mortar_pestle_side",
+    "south": "creation_mod:blocks/mortar_pestle_side",
+    "west": "creation_mod:blocks/mortar_pestle_side",
+    "particle": "creation_mod:blocks/mortar_pestle_side"
+  }
+}
