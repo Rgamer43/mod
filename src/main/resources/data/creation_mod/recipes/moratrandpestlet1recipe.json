@@ -1,0 +1,29 @@
+{
+  "group": "creation_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cobblestone_slab"
+    },
+    "2": {
+      "item": "minecraft:cobblestone_slab"
+    },
+    "3": {
+      "item": "minecraft:cobblestone_slab"
+    },
+    "4": {
+      "item": "minecraft:cobblestone_slab"
+    },
+    "5": {
+      "item": "minecraft:cobblestone_slab"
+    }
+  },
+  "result": {
+    "item": "creation_mod:mortarandpestlet1v2",
+    "count": 1
+  }
+}

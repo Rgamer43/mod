@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:MortarandPestleT1V2"
+    },
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.STONE_SLAB#3"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.STONE_SLAB#3"
+      },
+      {
+        "value": "Blocks.STONE_SLAB#3"
+      },
+      {
+        "value": "Blocks.STONE_SLAB#3"
+      },
+      {
+        "value": "Blocks.STONE_SLAB#3"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "moratrandpestlet1recipe",
+    "namespace": "mod"
+  }
+}

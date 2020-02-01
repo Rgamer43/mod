@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "recipeShapeless": true,
+    "recipeReturnStack": {
+      "value": "CUSTOM:CitPasteT1"
+    },
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CitChunkT1"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:MortarandPestleT1V2"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "citpastematrecipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "creation_mod:blocks/cit_plant",
+    "particle": "creation_mod:blocks/cit_plant"
+  }
+}

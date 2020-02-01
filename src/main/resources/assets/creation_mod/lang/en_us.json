@@ -1,4 +1,8 @@
 {
+  "item.creation_mod.citpastet1": "Cit Paste T1",
   "item.creation_mod.pestle": "Pestle",
-  "block.creation_mod.mortarandpestlet1": "Basic Mortar and Pestle"
+  "item.creation_mod.mortarandpestlet1v2": "Mortarand Pestle T1 V2",
+  "item.creation_mod.citchunkt1": "Cit Chunk T1",
+  "block.creation_mod.mortarandpestlet1": "Basic Mortar and Pestle",
+  "block.creation_mod.citplantt1": "Cit Plant"
 }

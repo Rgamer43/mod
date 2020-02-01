@@ -1,0 +1,16 @@
+{
+  "group": "creation_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "minecraft:oak_log"
+    }
+  ],
+  "result": {
+    "item": "creation_mod:pestle",
+    "count": 1
+  }
+}

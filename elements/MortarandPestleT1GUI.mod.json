@@ -1,0 +1,25 @@
+{
+  "_fv": 5,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "containerBlock": "MortarandPestleT1",
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "Grind",
+          "width": 100,
+          "height": 40,
+          "name": "Grind",
+          "x": 480,
+          "y": 150
+        }
+      }
+    ],
+    "inventories": []
+  }
+}

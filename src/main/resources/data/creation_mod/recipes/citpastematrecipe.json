@@ -1,0 +1,16 @@
+{
+  "group": "creation_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "creation_mod:citchunkt1"
+    },
+    {
+      "item": "creation_mod:mortarandpestlet1v2"
+    }
+  ],
+  "result": {
+    "item": "creation_mod:citpastet1",
+    "count": 3
+  }
+}
